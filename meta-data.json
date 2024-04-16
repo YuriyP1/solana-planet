@@ -1,0 +1,32 @@
+{
+    "name": "PLANET",
+    "symbol": "$PLAN",
+    "description": "A utility token for intergalactic transactions and planetary operations.",
+    "seller_fee_basis_points": 500,
+    "image": "https://e-menu-six.vercel.app/planet.jpg",
+    "attributes": [
+      {
+        "trait_type": "Category",
+        "value": "Utility Token"
+      }
+    ],
+    "collection": {
+      "name": "Intergalactic Planetary Collection",
+      "family": "Galactic Assets"
+    },
+    "properties": {
+      "files": [
+        {
+          "uri": "https://e-menu-six.vercel.app/planet.jpg",
+          "type": "image/jpg"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "99CRTMYfELNtRnd87rDL537qZtHGPrNKqQikJ7rcJMZD",
+          "share": 7000000
+        }
+      ]
+    }
+}
